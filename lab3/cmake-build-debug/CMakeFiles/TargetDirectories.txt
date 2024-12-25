@@ -1,3 +1,0 @@
-C:/Users/Cat/CLionProjects/un6_lab3/cmake-build-debug/CMakeFiles/un6_lab3.dir
-C:/Users/Cat/CLionProjects/un6_lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Cat/CLionProjects/un6_lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
